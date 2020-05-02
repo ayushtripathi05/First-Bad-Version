@@ -4,7 +4,7 @@
 class Solution {
 public:
     int firstBadVersion(int n) {
-     
+        //improve variable names
         int s=1;
         
         int e=n;
